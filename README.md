@@ -34,8 +34,11 @@ Optimism, DAO, Layer2, Governance
 
   [LXDAO](https://lxdao.io/) 
   ![image](https://github.com/user-attachments/assets/688da195-23c9-4291-9da6-2b063211593c)
+  
   [OP 中文力量](https://x.com/optimismzh)![image](https://github.com/user-attachments/assets/1fc98ff5-2860-4301-bd8d-996d91c31699)
+  
   [ETHPanda](https://ethpanda.org/) ![image](https://github.com/user-attachments/assets/6665f961-6cbb-49d1-a09e-d101396eea0b)
+  
   [BanklessDAOCN](https://0xbanklesscn.substack.com/) ![image](https://github.com/user-attachments/assets/e8e93b3d-f2ac-46ac-a844-992582871b29)
 
 
