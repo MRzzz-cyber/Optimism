@@ -1,6 +1,6 @@
 
 
-# {Optimism 残酷共学第一期} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# {Optimism 残酷共学第一期} 
 
 ## 介绍
 
