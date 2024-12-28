@@ -54,7 +54,7 @@ Telegram：https://t.me/LXDAO/18240
 
 ## 学习资料/课程安排
 
-第一周：学习 Optimism 的基本概念，包括 Layer2 扩容方案，Opimism Rollups, Stage 阶段
+### 第一周：学习 Optimism 的基本概念，包括 Layer2 扩容方案，Opimism Rollups, Stage 阶段
 
 Layer2 扩容方案: https://docs.optimism.io/stack/rollup/overview
 
@@ -62,7 +62,7 @@ Optimism 与其他 Layer 2 的比较：https://learnblockchain.cn/article/3703
 
 Stage 的介绍：https://medium.com/l2beat/introducing-stages-a-framework-to-evaluate-rollups-maturity-d290bb22befe
 
-第二周：学习 Optimism 的治理理念，投票机制，委员会构成，RetroPGF
+### 第二周：学习 Optimism 的治理理念，投票机制，委员会构成，RetroPGF
 
 治理理念：https://community.optimism.io/welcome/welcome-overview
 
@@ -74,7 +74,7 @@ RetroPGF：https://community.optimism.io/citizens-house/how-retro-funding-works
 
 RetroPGF 获奖项目：https://round6.retrolist.app/
 
-第三周：学习 Superchain 生态，学习 Op Stack 基本概述，分析 Superchain 1~2 个项目
+### 第三周：学习 Superchain 生态，学习 Op Stack 基本概述，分析 Superchain 1~2 个项目
 
 Superchain 基本介绍：https://docs.optimism.io/stack/explainer
 
@@ -82,7 +82,7 @@ OP Stack 基本概述：https://docs.optimism.io/stack/getting-started
 
 体验和分析一下 Superchain 项目：https://www.superchain.eco/projects
 
-
+### 助教和安排
 本次残酷共学将由 2~3 位助教，每周工时 5~10 小时，助教职责如下
 
 - 耐心解答回答 TG 小伙伴提出的问题
