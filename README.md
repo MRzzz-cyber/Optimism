@@ -1,6 +1,6 @@
 
 
-# {Optimism 残酷共学第一期} 
+# Optimism 残酷共学第一期
 
 ## 介绍
 
