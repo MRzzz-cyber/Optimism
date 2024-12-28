@@ -2,61 +2,113 @@
 
 > 本文档为创建残酷共学的通用模版 - 中文版，请根据模版结构来进行你的残酷共学的内容填充，请将 {} 内容进行替换
 
-# {残酷共学名称} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# {Optimism 残酷共学第一期} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
 
 ## 介绍
 
-{残酷共学的介绍}
+本次 Optimism 残酷共学由 LXDAO，OP 中文力量，ETHPanda 共同发起，将系统的学习 Optimism 基本理念，包括 Layer2 基础概念，治理机制，社区和超级链生态等等，希望通过此学习，你能了解 Optimism 以及 Layer2 生态，能快速跟上 Layer2 的发展进程、养成自学与共学的定期学习习惯
 
 ## 关键词
 
-{残酷共学的关键词 tag，能够让参与者比较快速的搜索和定位到你的这个残酷共学，比如 DeFi，DAO，English 等，请用英文，并用英文的逗号（,）分隔}
+Optimism, DAO, Layer2, Governance
 
 ## 面向人群
 
-{残酷共学主要的受众人群，比如是专门针对程序员的，那么没有这方面技能和经验的人就可以不参加}
+任何想了解 Optimism,  Layer2 的人群，不论你是初学者还是富有经验的区块链老手，都可以参与到这个学习当中
 
 ## 报名时间
 
-- 开始时间：{报名开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-- 结束时间：{报名结束时间，格式：yyyy-mm-dd，例子：2024-11-01}
+- 开始时间：2025-01-01
+- 结束时间：2025-01-05
 
 ## 共学时间
 
-- 开始时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-- 结束时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-
+- 开始时间：2025-01-06
+- 结束时间：2025-01-26
 ## 发起人
 
-- 姓名：{残酷共学发起人名字}
-- GitHub ID：{残酷共学发起人 GitHub ID}
-- Telegram：{残酷共学发起人 Telegram ID}
-- Email：{残酷共学发起人 email}
+- 姓名：Marcus
+- GitHub ID：MRzzz-cyber
+- Telegram：@marcuszheng
+- Email：zqsanjingshou@gmail.com
 
 ## 发起组织
 
-- {残酷共学发起组织方，可以是多个，请按以下格式将组织名称、link 和 logo 填好}
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />
+  [LXDAO](https://lxdao.io/) ![image](https://github.com/user-attachments/assets/688da195-23c9-4291-9da6-2b063211593c)
+
+  [OP 中文力量](https://x.com/optimismzh)![image](https://github.com/user-attachments/assets/1fc98ff5-2860-4301-bd8d-996d91c31699)
+  [ETHPanda](https://ethpanda.org/) ![image](https://github.com/user-attachments/assets/6665f961-6cbb-49d1-a09e-d101396eea0b)
+  [BanklessDAOCN](https://0xbanklesscn.substack.com/) ![image](https://github.com/user-attachments/assets/e8e93b3d-f2ac-46ac-a844-992582871b29)
+
+
+
 
 ## 请假规则
 
-每周请假 {请假次数，数字} 次
+每周请假 2 次
 
 ## 社群
 
-Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内容}
+Telegram：https://t.me/LXDAO/18240
 
 ## 学习资料/课程安排
 
-{这部分内容是直接用 markdown 格式来编写，默认学习资料是一定要提供的，如果有导师线上上课，需要提供课程安排以及导师信息}
+第一周：学习 Optimism 的基本概念，包括 Layer2 扩容方案，Opimism Rollups, Stage 阶段
+
+Layer2 扩容方案: https://docs.optimism.io/stack/rollup/overview
+
+Optimism 与其他 Layer 2 的比较：https://learnblockchain.cn/article/3703
+
+Stage 的介绍：https://medium.com/l2beat/introducing-stages-a-framework-to-evaluate-rollups-maturity-d290bb22befe
+
+第二周：学习 Optimism 的治理理念，投票机制，委员会构成，RetroPGF
+
+治理理念：https://community.optimism.io/welcome/welcome-overview
+
+投票机制：https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md
+
+委员会：https://gov.optimism.io/search?q=council
+
+RetroPGF：https://community.optimism.io/citizens-house/how-retro-funding-works
+
+RetroPGF 获奖项目：https://round6.retrolist.app/
+
+第三周：学习 Superchain 生态，学习 Op Stack 基本概述，分析 Superchain 1~2 个项目
+
+Superchain 基本介绍：https://docs.optimism.io/stack/explainer
+
+OP Stack 基本概述：https://docs.optimism.io/stack/getting-started
+
+体验和分析一下 Superchain 项目：https://www.superchain.eco/projects
+
+
+本次残酷共学将由 2~3 位助教，每周工时 5~10 小时，助教职责如下
+
+- 耐心解答回答 TG 小伙伴提出的问题
+- 总结每天的学习精华资料
+- 组织每周五晚的学习问题
+- 组织学习会议
+- 审阅和评价大家的资料，最后给出得分
+
+每周五晚上，助教将会收集大家的学习资料和问题，总结并提出下一周的学习问题，大家可以带着问题去寻找答案
+
+学习中途第二周，我们将会举行一次学习会议，由助教来进行会议组织，会议目的：了解大家的学习进度，对问题进行回答，激发学习热情
+
 
 ## 共学激励
 
-{这部分内容是直接用 markdown 格式来编写，激励不是必须的，如果没有激励设置，也可以不写，或者写几句激励的话都可以}
+OP 中文力量将出资 100 OP 给到学习者，根据学习笔记进行评分，由 LXDAO，OP 中文力量，ETHPanda 各出一人共同评分，分成 3 种奖励
+
+1. 学神*1, 30 OP
+2. 学霸*2, 15 OP
+3. 坚持学习者, 40 OP，最后坚持下来的人平分奖励
+
+最后坚持学习的人会获得一个 Badge
 
 ## 更多信息
 
-{这部分内容是直接用 markdown 格式来编写，也不是必须的，这部分是如果有信息上面模块没有覆盖到，可以写在这里}
+1. 希望通过 Optimism 残酷共学，激发起大家对于 Optimism 乃至整个 Layer2 生态系统的学习热情，21 天可以养成一个好习惯
+2. 特别提示：鼓励全英文 Notes，先学习、熟悉英文原文术语体系更好
 
 ## 报名和打卡规则
 
