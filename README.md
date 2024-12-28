@@ -83,7 +83,7 @@ OP Stack 基本概述：https://docs.optimism.io/stack/getting-started
 体验和分析一下 Superchain 项目：https://www.superchain.eco/projects
 
 ### 助教和安排
-本次残酷共学将由 2~3 位助教，每周工时 5~10 小时，助教职责如下
+本次残酷共学将有 2 位助教，每周工时 5~10 小时，助教职责如下
 
 - 耐心解答回答 TG 小伙伴提出的问题
 - 总结每天的学习精华资料
